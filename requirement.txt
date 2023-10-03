@@ -1,0 +1,8 @@
+tensorboard
+easydict
+mxnet
+onnx
+sklearn
+matplotlib
+opencv-python
+scikit-image
